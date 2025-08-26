@@ -2,7 +2,7 @@
 
 ## Logo
 
-<img src="" alt="Logotipo do site da biblioteca" width="100"/>
+<img src="/assets/img/Sistema de Biblioteca.png" alt="Logotipo do site da biblioteca" width="100"/>
 
 ## Descrição sobre o site
 
