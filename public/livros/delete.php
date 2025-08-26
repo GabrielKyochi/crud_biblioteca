@@ -1,6 +1,6 @@
 <?php
 
-include '../../db.php';
+include '../../db/db.php';
 $id = $_GET['id'];
 
 $sql = " DELETE FROM livros WHERE id=$id ";
@@ -12,3 +12,5 @@ if ($conn->query($sql) === true) {
 }
 $conn -> close();
 exit();
+
+?>
